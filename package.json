@@ -12,11 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lit-html": "^1.0.0",
-    "lodash": "^4.17.13"
+    "lit-html": "1.1.2",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
