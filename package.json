@@ -1,0 +1,22 @@
+{
+  "name": "titansoft-assignment",
+  "version": "0.1.1",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode development",
+    "build:prod": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit-html": "^1.0.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
